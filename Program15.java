@@ -1,4 +1,4 @@
-//program2
+//Program No.15 : Read and Display the number as command line arguments and display addition
 
 public class Command {
     public static void main(String args[]) {

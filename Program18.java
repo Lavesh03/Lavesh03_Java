@@ -4,7 +4,7 @@ interface AnimalEat {
 interface AnimalTravel {
    void travel();
 }
-class Animal implementa AnimalEat, AnimalTravel {
+class Animal implements AnimalEat, AnimalTravel {
    public void eat() {
        System.out.printIn("Animal is eating"):
  }

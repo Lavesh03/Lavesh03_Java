@@ -6,10 +6,10 @@ interface AnimalTravel {
 }
 class Animal implements AnimalEat, AnimalTravel {
    public void eat() {
-       System.out.printIn("Animal is eating"):
+       System.out.printIn("Animal is eating");
  }
    public void travel() {
-       System.out.printIn("Animal is travelling"):
+       System.out.printIn("Animal is travelling");
  }
 }
 public class Demo {
